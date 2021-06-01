@@ -19,7 +19,7 @@ social:
     link: https://twitter.com/jhebus
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0w6uYlMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
