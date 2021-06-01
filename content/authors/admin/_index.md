@@ -25,10 +25,10 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/jhebus
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rakuten Mobile Innovation Studio
+    url: https://corp.mobile.rakuten.co.jp/nw-lab/
 education:
   courses:
     - course: PhD in Artificial Intelligence
