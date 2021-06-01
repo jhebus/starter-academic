@@ -2,7 +2,7 @@
 title: Paul Harvey
 role: Research | Lead | Play
 avatar_filename: viber_image_2020-10-20_22-34-48.jpg
-bio: Paul Harvey is a researcher looking for good graphs and good collaborators
+bio: A researcher looking for good graphs and good collaborators
 interests:
   - Adaptation
   - Systems
