@@ -9,7 +9,7 @@ interests:
   - Runtime
   - Autonomy
   - Evolution
-  - Edge
+  - Distribution
 social:
   - icon: envelope
     icon_pack: fas
