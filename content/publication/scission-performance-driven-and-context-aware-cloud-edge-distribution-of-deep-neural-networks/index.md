@@ -4,7 +4,7 @@ title: "Scission: Performance-driven and Context-aware Cloud-Edge Distribution
 publication_types:
   - "1"
 authors:
-  - L Lockheart
+  - Luke Lockheart
   - Paul Harvey
   - Pierre Imai
   - Peter Willis
