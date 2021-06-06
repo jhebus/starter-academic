@@ -20,7 +20,7 @@ main:
     url: './publication/'
     weight: 50
   - name: Contact
-    url: '#contact'
+    url: 'mailto:paul@paul-harvey.org'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
