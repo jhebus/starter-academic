@@ -5,6 +5,7 @@ headless: true
 weight: 90
 title: Recent Publications
 subtitle: ""
+active: false
 content:
   page_type: publication
   count: 5
