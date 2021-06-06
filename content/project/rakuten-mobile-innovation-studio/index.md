@@ -8,7 +8,10 @@ external_link: rakuten-mobile-innovation-studio
 url_slides: ""
 title: Rakuten Mobile Innovation Studio
 tags:
-  - Deep Learning
+  - Research
+  - collaboration
+  - innovation
+  - adventure
 links:
   - icon: twitter
     icon_pack: fab
