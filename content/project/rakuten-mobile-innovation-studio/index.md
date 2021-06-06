@@ -18,7 +18,7 @@ links:
     name: Follow
     url: https://twitter.com/jhebus
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
   filename: featured.jpg
 url_code: ""
