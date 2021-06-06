@@ -27,7 +27,7 @@ abstract: >-
 
 
   We present the design and implementation of EnsembleS, the first actor-based language with adaptive features and a static session type system. We apply it to a case study based on an adaptive DNS server. Finally, we formalise the type system of EnsembleS and prove the safety of well-typed programs, making essential use of recent advances in non-classical multiparty session types.
-draft: true
+draft: false
 featured: false
 tags:
   - Actor
