@@ -1,7 +1,7 @@
 ---
 title: A Feasibility Study of Cache in Smart Edge Router for Web-Access Accelerator
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Krittin Intharawijitr
   - Paul Harvey
