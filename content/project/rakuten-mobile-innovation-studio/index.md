@@ -20,6 +20,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: featured.jpg
 url_code: ""
 ---
 We built a lab.
