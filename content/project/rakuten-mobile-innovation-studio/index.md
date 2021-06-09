@@ -4,7 +4,7 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-06-06T06:57:26.001Z
-external_link: .
+external_link: 
 url_slides: ""
 title: Rakuten Mobile Innovation Studio
 tags:
