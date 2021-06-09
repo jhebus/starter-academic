@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
 summary: First Ever Hackathon
 authors:
@@ -8,7 +8,7 @@ authors:
   - Darrel Weir
 url_video: ""
 date: 2013-03-30T13:46:55.735Z
-external_link: .
+external_link: 
 url_slides: ""
 title: Webtext
 subtitle: Should Have Been Ours
