@@ -6,6 +6,7 @@ authors:
   - Paul Harvey
   - Lauren Norrie
   - Darrel Weir
+  - Ian McGuinness
 url_video: ""
 date: 2013-03-30T13:46:55.735Z
 external_link: 
