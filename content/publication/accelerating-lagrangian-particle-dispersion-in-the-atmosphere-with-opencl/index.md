@@ -3,8 +3,8 @@ title: Accelerating Lagrangian Particle Dispersion in the Atmosphere with OpenCL
 publication_types:
   - "1"
 authors:
-  - Paul Harvey
-  - Saji Hameed
+  - "*Paul Harvey*"
+  - _Saji_ Hameed
   - Wim Vanderbauhede
 author_notes: []
 doi: https://doi.org/10.1145/2664666.2664672
