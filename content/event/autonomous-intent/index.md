@@ -1,5 +1,6 @@
 ---
 title: Autonomous Intent
+summary: A look at the role of intent in the autonomous operation of networks.
 abstract: >-
   Autonomous networks are seen as a vehicle to address many of the issues
   currently being faced by the telecommunications industry: increasing service
