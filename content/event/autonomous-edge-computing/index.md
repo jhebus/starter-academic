@@ -1,5 +1,6 @@
 ---
 title: Autonomous Edge Computing
+summary: A look at the need for autonomy at the edge and how it may be realised.
 abstract: As computing moves from the cloud to the edge, telco operators have
   the opportunity to provide novel and enhanced services to their customers,
   while simultaneously reducing the cost of operation.  The challenges that come
