@@ -27,3 +27,4 @@ image:
   preview_only: false
   caption: Photo by ITU
 ---
+A different way of thinking about autonomy in networks.
