@@ -8,6 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: project
+  count: 5
   filter_default: 0
   filter_button:
     - name: All
