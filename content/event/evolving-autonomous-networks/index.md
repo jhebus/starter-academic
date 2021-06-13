@@ -1,5 +1,6 @@
 ---
 title: Evolving Autonomous Networks
+summary: The need to think about autonomous networks in a different way.
 abstract: 'This talk outlines the need to an approach to autonomous networks
   which goes beyond the necessary but unscalable "AI + Use Case" approach.
   Instead, this talk advocates for the need to introduce a higher level of
