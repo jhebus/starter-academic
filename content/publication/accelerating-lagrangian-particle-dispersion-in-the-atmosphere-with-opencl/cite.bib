@@ -1,0 +1,17 @@
+@inproceedings{10.1145/2664666.2664672,
+author = {Harvey, Paul and Hameed, Saji and Vanderbauwhede, Wim},
+title = {Accelerating Lagrangian Particle Dispersion in the Atmosphere with OpenCL across Multiple Platforms},
+year = {2014},
+isbn = {9781450330077},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/2664666.2664672},
+doi = {10.1145/2664666.2664672},
+abstract = {FLEXPART is a popular simulator that models the transport and diffusion of air pollutants, based on the Lagrangian approach. It is capable of regional and global simulation and supports both forward and backward runs. A complex model like this contains many calculations suitable for parallelisation. Recently, a GPU-accelerated version of the simulator (FLEXCPP) has been written in C++/CUDA. As CUDA is only supported on NVIDIA GPUs, such an implementation is tied to a single hardware vendor, and is not able to take advantage of other hardware acceleration platforms.This paper presents an OpenCL/C++ version of FLEXCPP, called FlexOcl. This simulator provides all the functionality of FLEXCPP, and has been extended to include modelling of the decay of radioactive particles. A performance comparison between the two simulators has been performed on GPU, and the performance of FlexOcl has also been evaluated on the Intel Xeon Phi, as well as a number of other hardware platforms. Our results show that the OpenCL code performs better than CUDA code on GPUs, and that equivalent performance is seen on the Xeon Phi for this type of application.},
+booktitle = {Proceedings of the International Workshop on OpenCL 2013 &amp; 2014},
+articleno = {6},
+numpages = {8},
+keywords = {FLEXPART, OpenCL, multicore, GPU, application, weather simulation},
+location = {Bristol, United Kingdom},
+series = {IWOCL '14}
+}
