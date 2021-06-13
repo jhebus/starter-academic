@@ -9,6 +9,7 @@ location: online
 date: 2020-11-03T01:00:58.567Z
 date_end: 2020-11-03T03:00:00.000Z
 all_day: false
+links: []
 event: ITU Webinar on "Towards a truly Autonomous Network"
 event_url: https://www.itu.int/en/ITU-T/webinars/20201103/Pages/default.aspx
 publishDate: 2021-06-13T02:44:58.595Z
