@@ -25,5 +25,5 @@ image:
   filename: https://unsplash.com/photos/C11UKrFo4CQ
   focal_point: Smart
   preview_only: false
-  caption: Photo by engin akyurt on Unsplash
+  caption: Photo by ITU
 ---
