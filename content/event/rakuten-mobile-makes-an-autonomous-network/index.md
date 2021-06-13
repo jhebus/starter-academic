@@ -1,5 +1,6 @@
 ---
 title: Rakuten Mobile Makes an Autonomous Network
+summary: Outlining the collaboration oppertunities with Rakuten Mobile and NECTEC
 abstract: This talk describes how we are laying the groundwork necessary to
   purse autonomy in the operation of the worlds first fully-virtualised end to
   end network.
