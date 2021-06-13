@@ -22,7 +22,7 @@ tags:
   - adaptation
   - autonomous networks
 image:
-  filename: https://unsplash.com/photos/C11UKrFo4CQ
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Photo by ITU
