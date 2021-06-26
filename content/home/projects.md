@@ -8,13 +8,17 @@ subtitle: ""
 active: true
 content:
   page_type: project
-  count: 5
+  count: 3
   filter_default: 0
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Autonomy
+      tag: Autonomy
+    - name: Edge
+      tag: edge
+    - name: Fun
+      tag: fun
     - name: Other
       tag: Demo
 design:
