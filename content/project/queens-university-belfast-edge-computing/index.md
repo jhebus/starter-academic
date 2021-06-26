@@ -3,6 +3,7 @@ title: "Queen's University Belfast: Edge Computing"
 date: 2021-06-13T14:02:26.395Z
 draft: false
 featured: false
+summary: 'A research collaboration on distributed machine learning at the Edge'
 tags:
   - edge
   - research

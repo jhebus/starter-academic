@@ -9,7 +9,6 @@ url_slides: ""
 title: Rakuten Mobile Innovation Studio
 tags:
   - Research
-  - collaboration
   - innovation
   - adventure
 links:

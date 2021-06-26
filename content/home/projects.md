@@ -8,7 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: project
-  count: 3
+  count: 5
   filter_default: 0
   filter_button:
     - name: All
@@ -19,8 +19,8 @@ content:
       tag: edge
     - name: Fun
       tag: fun
-    - name: Other
-      tag: Demo
+    - name: Reseach Collaboration
+      tag: collaboration
 design:
   columns: "2"
   view: 2
