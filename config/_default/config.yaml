@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Paul Harvey # Website name
-baseurl: 'https://relaxed-mahavira-bf2352.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+#baseurl: 'https://relaxed-mahavira-bf2352.netlify.app' # Website URL
+baseurl: 'http://paul-harvey.org/test' # Website URL
+copyright: '© 2021 Paul Harvey' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

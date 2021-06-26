@@ -7,18 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publications
+    #url: './publication/'
+    url: '#publications'
+    weight: 20
   - name: Projects
-    url: './proj-page/'
+    #url: './proj-page/'
+    url: '#projects'
     weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: './publication/'
-    weight: 20
-  - name: Posts
-    url: '#posts'
-    weight: 50
+  #- name: Posts
+  #  url: '#posts'
+  #  weight: 50
     
   #- name: Contact
   #  url: 'mailto:paul@paul-harvey.org'

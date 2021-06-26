@@ -2,13 +2,13 @@
 widget: pages
 widget_id: recent-posts
 headless: true
-weight: 90
+weight: 20
 title: Recent Publications
 subtitle: ""
 active: true
 content:
   page_type: publication
-  count: 5
+  count: 3
   offset: 0
   order: desc
   filters:
