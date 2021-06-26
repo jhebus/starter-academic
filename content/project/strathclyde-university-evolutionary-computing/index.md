@@ -10,7 +10,12 @@ tags:
   - collaboration
   - evolution
   - control
-external_link: example.com
+external_link: ''
+
+links:
+  - url: https://corp.mobile.rakuten.co.jp/english/news/press/2021/0309_01/
+    name: Founding of the collaboration
+    
 image:
   filename: featured
   focal_point: Smart

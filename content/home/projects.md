@@ -13,14 +13,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Autonomy
-      tag: Autonomy
+    - name: Evolution
+      tag: evolution
     - name: Edge
       tag: edge
-    - name: Fun
-      tag: fun
     - name: Reseach Collaboration
       tag: collaboration
+    - name: Fun
+      tag: fun
 design:
   columns: "2"
   view: 2

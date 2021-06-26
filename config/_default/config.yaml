@@ -5,7 +5,7 @@
 
 title: Paul Harvey # Website name
 #baseurl: 'https://relaxed-mahavira-bf2352.netlify.app' # Website URL
-baseurl: 'http://paul-harvey.org/test' # Website URL
+baseurl: 'http://paul-harvey.org' # Website URL
 copyright: '© 2021 Paul Harvey' # Footer text, e.g. '© {year} Me'
 
 ############################
