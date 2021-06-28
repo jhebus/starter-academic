@@ -1,5 +1,5 @@
 ---
-title: Revisiting the Arguments for Edge Computing Research
+title: Revisiting the Arguments for Edge Computing Research (to appear)
 publication_types:
   - "2"
 authors:
@@ -29,7 +29,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-11-25T00:50:55.385Z
+date: 2021-06-25T00:50:55.385Z
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
