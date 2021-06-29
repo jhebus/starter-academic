@@ -5,7 +5,7 @@ abstract: "This talk is a collection of stories about research projects
   may head. "
 location: Online
 date: 2021-06-15T12:54:11.255Z
-date_end: 2021-06-14T15:00:00.000Z
+date_end: 2021-06-15T13:54:11.255Z
 all_day: true
 event: "IEEE Technical Committee on Cloud Computing: Future Directions in cloud,
   edge, and fog Computing and the rise of EdgeIntelligence"
