@@ -15,6 +15,8 @@ content:
     - Visitors
     - Alumni
     - Interns
+    - Masters Students
+    - PhD Student
 design:
   # Show user's social networking links? (true/false)
   show_social: false
