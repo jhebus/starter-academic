@@ -13,7 +13,7 @@ organizations:
     url: https://www.google.com
 
 interests:
-  - Systems
+  - A Virtual Machine for the Insense Language
 
 tags:
   - WSN
@@ -22,3 +22,5 @@ tags:
   - language runtime
 ---
 Callum was one of my masters students during my PhD.
+
+The goal of this project is to create a virtual machine interpreter which will run on sensor motes. This work was published [here](/publication/a-virtual-machine-for-the-insense-language/).

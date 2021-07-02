@@ -21,9 +21,11 @@ event_url: https://ieeexplore.ieee.org/xpl/conhome/9302766/proceeding
 publishDate: 2021-07-02T04:21:44.292Z
 draft: false
 featured: false
+summary: A presentation about the use of home-based edge computing on caching
 authors:
   - Krittin Intharawijitr
   - Paul Harvey
+  - Pierre Imai
 tags:
   - edge computing
   - study
@@ -32,5 +34,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: A presentation about the use of home-based edge computing on caching
+  caption: 
 ---

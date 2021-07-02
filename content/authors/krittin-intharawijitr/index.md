@@ -27,4 +27,4 @@ Krittin was an intern at the Rakuten Mobile Innovation Studio and was working on
 
 The work done was published [here](/publication/a-feasibility-study-of-cache-in-smart-edge-router-for-web-access-accelerator/).
 
-The presentation can be found [here]().
+The presentation can be found [here](/talk/a-feasibility-study-of-cache-in-smart-edge-router-for-web-access-accelerator/).

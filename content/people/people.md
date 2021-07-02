@@ -1,8 +1,5 @@
 ---
 widget: people
-
-active: false
-
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -26,7 +23,7 @@ design:
   # Show user's interests? (true/false)
   show_interests: true
   # Show user's role?
-  show_role: true
+  show_role: false
   # Show user's organizations/affiliations?
-  show_organizations: true
+  show_organizations: false
 ---
