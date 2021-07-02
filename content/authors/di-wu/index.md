@@ -12,6 +12,6 @@ email: dwu11@qub.ac.uk
 superuser: false
 user_groups:
   - PhD Student
-date: 2012-06-13T14:18:20.451Z
+date: 2020-11-13T14:18:20.451Z
 ---
 I am an industry supervisor for Di.

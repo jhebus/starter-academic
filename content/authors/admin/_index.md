@@ -37,7 +37,7 @@ education:
     - course: MSci in Computing Science
       institution: University of Glasgow
       year: 2010
-email: ""
+email: "paul@paul-harvey.org"
 superuser: true
 highlight_name: false
 

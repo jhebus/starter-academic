@@ -14,5 +14,11 @@ organizations:
 
 interests:
   - Systems
+
+tags:
+  - WSN
+  - JVM
+  - embedded
+  - language runtime
 ---
 Callum was one of my masters students during my PhD.
