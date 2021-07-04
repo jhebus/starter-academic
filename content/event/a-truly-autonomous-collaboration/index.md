@@ -7,7 +7,7 @@ date_end: 2021-07-08T14:00:00.886Z
 all_day: false
 event: Research & Development Management Conference
 event_url: https://www.rnd2021.org/Workshops
-publishDate: 2021-07-04T14:06:27.907Z
+publishDate: 2021-07-04T10:06:27.907Z
 draft: false
 featured: false
 authors:
