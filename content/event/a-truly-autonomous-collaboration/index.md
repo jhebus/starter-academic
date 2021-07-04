@@ -1,6 +1,6 @@
 ---
 title: "A Truly Autonomous Collaboration: Evolving with purpose"
-abstract: This talk is about the process of forming the Collaboration between
+abstract: This talk is about the process of forming the collaboration between
   Rakuten Mobile and the University of Strathclyde
 location: online
 date: 2021-07-08T13:00:00.886Z
@@ -16,8 +16,15 @@ authors:
   - Marc Roper
   - Julian Taylor
   - Prakaiwan Varjarabaya
+
+tags:
+  - research
+  - management
+  - collaboration
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
+In this hour long workshop session, Julian, Marc, Prakaiwan (Wannie), and myself will discuss the year long adventure to put together our research collaboration. We will point out what worked, what didn't, and what might be a little unusual given conventional wisdom.
