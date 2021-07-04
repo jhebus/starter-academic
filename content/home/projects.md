@@ -7,8 +7,7 @@ title: Projects
 subtitle: ""
 active: true
 content:
-  page_type: project
-  count: 5
+  page_type: project 
   filter_default: 0
   filter_button:
     - name: All
@@ -25,4 +24,5 @@ design:
   columns: "2"
   view: 2
   flip_alt_rows: false
+  count: 3
 ---

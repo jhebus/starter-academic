@@ -3,7 +3,7 @@ title: Evolutionary Autonomous Networks
 publication_types:
   - "2"
 authors:
-  - Paul Harvey
+  - Paul Harvey*
   - Alexandru Tatar
   - Pierre Imai
   - Leon Wong
