@@ -14,6 +14,7 @@ authors:
   - Weisong Shi
   - Mark Thiele
   - Peter Willis
+doi: 10.1109/MIC.2021.3093924
 publication: IEEE Internet Computing
 abstract: This article argues that low latency, high bandwidth, device
   proliferation, sustainable digital infrastructure, and data privacy and
@@ -30,13 +31,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-06-25T00:50:55.385Z
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Preprint / Working Paper
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-# 7 = Thesis (v4.2+ required)
-# 8 = Patent (v4.2+ required)
 ---
