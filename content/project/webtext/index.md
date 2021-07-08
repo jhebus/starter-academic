@@ -19,10 +19,10 @@ tags:
   - fun
   - ""
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/jhebus
+  #- icon: twitter
+  #  icon_pack: fab
+  #  name: Follow
+  #  url: https://twitter.com/jhebus
 image:
   caption: ""
   focal_point: Smart
