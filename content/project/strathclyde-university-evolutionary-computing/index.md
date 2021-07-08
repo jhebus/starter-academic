@@ -2,7 +2,7 @@
 title: "Strathclyde University: Evolutionary Computing"
 date: 2021-06-26T09:55:16.360Z
 summary: A research collaboration on applying evolutionary principles to the
-  create and adaptation of control systems
+  creation and adaptation of control systems
 draft: false
 featured: false
 tags:

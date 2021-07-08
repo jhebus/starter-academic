@@ -1,7 +1,7 @@
 ---
 #slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: Creating a research lab from scratch in a big company.
 url_video: ""
 date: 2021-06-06T06:57:26.001Z
 external_link: 
