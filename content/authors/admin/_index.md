@@ -28,7 +28,7 @@ social:
     link: https://www.linkedin.com/jhebus
 organizations:
   - name: Rakuten Mobile Innovation Studio
-    url: https://corp.mobile.rakuten.co.jp/nw-lab/
+    url: http://netlab.mobile.rakuten.co.jp/
 education:
   courses:
     - course: PhD in Adaptive Runtime Systems
