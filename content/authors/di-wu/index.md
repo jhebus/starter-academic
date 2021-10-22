@@ -13,5 +13,11 @@ superuser: false
 user_groups:
   - PhD Student
 date: 2020-11-13T14:18:20.451Z
+tags:
+  - edge
+  - federated Learning
+  - split learning
+  - reinforcement learning
+  - systems
 ---
 I am an industry supervisor for Di.

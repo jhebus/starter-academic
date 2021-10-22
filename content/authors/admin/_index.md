@@ -45,7 +45,7 @@ highlight_name: false
 ---
 Paul Harvey received his doctorate in Computing Science from the University of Glasgow focusing on heterogeneous adaptive systems. He posses extensive experience in academia, including multiple international collaborations and positions, and is currently bridging academic and industrial research. 
 
-He is one of the original founders of the Autonomous Networks Research and Innovation Lab in Rakuten Mobile Japan, a working group co-chair in the ITU focus group on autonomous networks, and passionate about pursing collaborative and open research.
+He is a co-founder and research lead of the [Rakuten Mobile Innovation Studio](https://netlab.mobile.rakuten.co.jp/), a proponent and working group co-chair in the UN's ITU-T [Focus Group on Autonomous Networks](https://www.itu.int/en/ITU-T/focusgroups/an/Pages/default.aspx), and passionate about collaborative and open research.
 
 
 {{% callout note %}}

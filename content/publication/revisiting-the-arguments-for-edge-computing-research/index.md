@@ -1,5 +1,5 @@
 ---
-title: Revisiting the Arguments for Edge Computing Research (to appear)
+title: Revisiting the Arguments for Edge Computing Research
 publication_types:
   - "2"
 authors:
