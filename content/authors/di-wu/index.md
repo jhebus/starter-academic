@@ -10,8 +10,8 @@ organizations:
     url: https://www.linkedin.com/in/di-wu-a3036a14b/?originalSubdomain=uk
 email: dwu11@qub.ac.uk
 superuser: false
-user_groups:
-  - PhD Student
+user_groups: 
+  - PhD Students
 date: 2020-11-13T14:18:20.451Z
 ---
 I am an industry supervisor for Di.

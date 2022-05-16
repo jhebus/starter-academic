@@ -16,7 +16,7 @@ content:
     - Alumni
     - Interns
     - Masters Students
-    - PhD Student
+    - PhD Students
 design:
   # Show user's social networking links? (true/false)
   show_social: false
@@ -27,3 +27,5 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: false
 ---
+
+This is a page of the people that i had the pleasure of working with over the years. ^_^
