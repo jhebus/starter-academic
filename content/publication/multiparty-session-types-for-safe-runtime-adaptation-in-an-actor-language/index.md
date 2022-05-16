@@ -8,6 +8,7 @@ authors:
   - Ornela Dardha
   - Simon J. Gay
 author_notes: []
+doi: https://doi.org/10.4230/DARTS.7.2.8
 publication: 35th European Conference on Object-Oriented Programming 2021
 publication_short: ECOOP
 abstract: >-

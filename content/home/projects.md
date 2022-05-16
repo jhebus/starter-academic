@@ -16,10 +16,13 @@ content:
       tag: evolution
     - name: Edge
       tag: edge
+    - name: poc
+      tag: poc
     - name: Reseach Collaboration
       tag: collaboration
     - name: Fun
       tag: fun
+
 design:
   columns: "2"
   view: 2

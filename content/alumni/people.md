@@ -8,16 +8,16 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
+    - Alumni Principal Investigators
+    - Alumni Researchers
+    - Alumni Grad Students
+    - Alumni Administration
+    - Alumni Visitors
     - Alumni
-    - Interns
-    - Masters Students
-    - PhD Students
-    - Project Students
+    - Alumni Interns
+    - Alumni Masters Students
+    - Alumni Project Students
+    - Alumni PhD Student
 design:
   # Show user's social networking links? (true/false)
   show_social: false
@@ -27,3 +27,6 @@ design:
   show_role: false
   # Show user's organizations/affiliations?
   show_organizations: false
+---
+
+People [here](./people)

@@ -13,6 +13,8 @@ tags:
 links:
   - url: https://corp.mobile.rakuten.co.jp/english/news/press/2020/0701_01/
     name: Founding of the collaboration
+  - url: https://www.youtube.com/watch?v=KMimSYIADDk&
+    name: 🎥 Intro video to the collaboration
 
 
 external_link: ''

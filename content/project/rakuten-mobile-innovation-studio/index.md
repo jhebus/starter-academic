@@ -1,7 +1,7 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: Creating a research lab from scratch in a big company.
 url_video: ""
 date: 2021-06-06T06:57:26.001Z
 external_link: 
@@ -12,14 +12,17 @@ tags:
   - innovation
   - adventure
 links:
-  - icon: twitter
+  - icon: 
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/jhebus
+    name: Lab Site
+    url: https://corp.mobile.rakuten.co.jp/nw-lab/
 image:
   caption: ""
   focal_point: Smart
   filename: featured.jpg
 url_code: ""
+
+# ICONS
+# https://wowchemy.com/docs/getting-started/page-builder/
 ---
 We built a lab.
